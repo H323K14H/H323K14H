@@ -1,5 +1,8 @@
-# 💫 About Me:
-" A former Business Management student, turned Software Engineer! "🧑🏾‍💻<br><br> <u><strong>How it all began...</strong></u>  📖<br><br>It all started when I was watching my friend change the title of a website  using "Inspect element". From that moment,I developed a strong longing for frontend development.<br><br>Fast-forward to now, I am on a 13-week full-stack bootcamp that is equipping me with the toolset needed to thrive in a ever-changing world of tech.<br><br>My interest in technology spans across web development, all the way to blockchain technology. <br><br>
+# About Me 💫 :
+" A former Business Management student, turned Software Engineer! "🧑🏾‍💻<br>
+
+## <u><strong>How it all began...</strong></u>  📖
+It all started when I was watching my friend change the title of a website  using "Inspect element". From that moment,I developed a strong longing for frontend development.<br><br>Fast-forward to now, I am on a 13-week full-stack bootcamp that is equipping me with the toolset needed to thrive in a ever-changing world of tech.<br><br>My interest in technology spans across web development, all the way to blockchain technology. <br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hezekiaha/) 
